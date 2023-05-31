@@ -1,0 +1,264 @@
+@import url('https://fonts.googleapis.com/css2?family=Chelsea+Market&family=Roboto:ital,wght@1,700&display=swap');
+*{
+    box-sizing: border-box;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Barra */
+
+.barra {
+    background-color: black;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 99;
+}
+
+.barra header{
+    max-width: 1100px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+}
+
+.barra header .logo a{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 35px;
+    color: white;
+    text-decoration: none;
+}
+
+.barra header ul{
+    display: flex;
+    list-style: none;
+}
+
+.barra header nav ul li a{
+    text-align: none;
+    color: white;
+    margin: 0 15px;
+    padding: 10px;
+    transition: .5s;
+    text-decoration: none;
+}
+
+body{
+    background: linear-gradient(to top, rgba(30,35,38,.8), rgba(30,35,38,1)), url(comedor.jpg);
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    height: 100vh;
+    
+    
+}
+
+.titulo{
+    margin: 0 auto;
+    color: white;
+}
+
+.titulo .uno .dos .tres .cuatro .cinco{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+}
+.titulo .uno{
+    margin: 80px;
+}
+
+.titulo .dos{
+    margin: 80px;
+}
+.titulo .tres{
+    margin: 80px;
+}
+.titulo .cuatro{
+    margin: 80px;
+}
+.titulo .cinco{
+    margin: 80px;
+}
+
+.dato .dato1{
+    color: white;
+    margin: 80px;
+    font-size: 40px;
+    
+}
+
+.dato .nombre2{
+    color: white;
+    margin: 80px;
+    font-size: 25px;
+}
+
+.dato .ubi3{
+    color: white;
+    margin: 80px;
+    font-size: 25px;
+}
+
+.dato .funda4{
+    color: white;
+    margin: 80px;
+    font-size: 25px;
+}
+
+.historia .info{
+    font-size: 40px;
+    color: white;
+    margin: 80px;
+}
+
+.historia .texto{
+    font-size: 25px;
+    margin: 80px;
+    color: white;
+}
+
+.comoayudar .ayuda{
+    font-size: 25px;
+    color: white;
+    margin: 80px;
+}
+
+.comoayudar .ayudados{
+    font-size: 25px;
+    color: white;
+    margin: 80px;
+}
+
+.comoayudar .contacto{
+    font-size: 25px;
+    color: white;
+    margin: 80px;
+}
+
+.integ .integrante{
+    margin: 80px;
+    color: white;
+    font-size: 30px;
+}
+
+.integ .manu{
+    margin: 80px;
+    color: white;
+    font-size: 30px;
+    
+}
+
+.integ .grego{
+    margin: 80px;
+    color: white;
+    font-size: 30px;
+}
+
+.integ .fer{
+    margin: 80px;
+    color: white;
+    font-size: 30px;
+}
+
+.proyect .propu{
+    margin: 80px;
+    color: white;
+    font-size: 30px;
+}
+
+.proyect .titul{
+    margin: 80px;
+    color: white;
+    font-size: 30px;
+}
+
+.proyect .desc{
+    margin: 80px;
+    color: white;
+    font-size: 30px;
+}
+
+.avance .avanceuno{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.avance .avancedos{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.avance .avancetres{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.avance .avancecuatro{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.avance .avancecinco{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.avance .avanceseis{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.proc{
+    margin: 80px;
+    font-size: 50px;
+    color: white;
+}
+
+.puntouno{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.puntodos{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.tre{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.foto {
+   align-items: center;
+  
+}
+
+img {
+    display: block;
+    margin: auto;
+  }
+
+.rol{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.proto{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
