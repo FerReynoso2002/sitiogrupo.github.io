@@ -147,7 +147,7 @@ body{
 .integ .manu{
     margin: 80px;
     color: white;
-    font-size: 30px;
+    font-size: 30px
     
 }
 
@@ -180,6 +180,7 @@ body{
     color: white;
     font-size: 30px;
 }
+
 
 .avance .avanceuno{
     color: white;
@@ -261,4 +262,79 @@ img {
     color: white;
     margin: 80px;
     font-size: 30px;
+}
+
+.roldos{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.roltres{
+    color: white;
+    margin: 80px;
+    font-size: 30px;
+}
+
+.imagen{
+    display: flex;
+    margin-left: 0;
+}
+
+.imagen img{
+    margin-left: 8px;
+    background-color: white;
+}
+
+.avance p a{
+    text-decoration: none;
+    color: white;
+
+}
+.avance p a:hover{
+    color: aqua;
+}
+
+.hugo .manu a{
+    text-decoration: none;
+    color: white;
+
+}
+
+.augusto .grego a{
+    text-decoration: none;
+    color: white;
+}
+
+.tomi .fer a{
+    color: white;
+    text-decoration: none;
+}
+
+.hugo .manu a:hover{
+    color: aqua;
+}
+.augusto .grego a:hover{
+    color: aqua;
+}
+.tomi .fer a:hover{
+    color: aqua;
+}
+
+.flaco .proto a{
+    text-decoration: none;
+    color: white;
+}
+
+.flaco .proto a:hover{
+    color: aqua;
+}
+
+.dimaria .proc a{
+    text-decoration: none;
+    color: white;
+}
+
+.dimaria .proc a:hover{
+    color: aqua;
 }
