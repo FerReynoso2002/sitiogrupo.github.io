@@ -338,3 +338,156 @@ img {
 .dimaria .proc a:hover{
     color: aqua;
 }
+
+/*RESPONSIVE*/
+
+
+@media screen and (max-width:740px){
+    #nav ul{
+        display: block;
+    }
+
+
+    .titulo{
+        display: block;
+        font-size: 10px;
+        margin-left: -50px;
+        margin-top: 100px;
+        
+        
+    }
+
+    .integ .integrante{
+        display: block;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+    .integ .hugo .manu{
+        display: block;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+    .integ .augusto .grego{
+        display: block;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+    .integ .tomi .fer{
+        display: block;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+    .proyect .desc{
+        display: block;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+    .proyect .propu{
+        display: block;
+        font-size: 20px;
+        margin-left: 20px;
+        margin-top: 150px;
+        
+    }
+
+    .proyect .titul{
+        display: block;
+        font-size: 20px;
+        margin-left: 20px;
+    }
+
+    .avance .avanceuno a{
+        display: block;
+        font-size: 20px;
+        margin-left: -30px;
+        margin-top: 150px;
+        
+        
+    }
+    
+    .avance .avancedos a{
+        display: block;
+        font-size: 20px;
+        margin-left: -30px;
+    }
+
+    .avance .avancetres a{
+        display: block;
+        font-size: 20px;
+        margin-left: -30px;
+    }
+
+    .avance .avancecuatro a{
+        display: block;
+        font-size: 20px;
+        margin-left: -30px;
+    }
+
+    .avance .avancecinco a{
+        display: block;
+        font-size: 20px;
+        margin-left: -30px;
+    }
+
+    .avance .avanceseis a{
+        display: block;
+        font-size: 20px;
+        margin-left: -30px;
+    }
+
+    .puntouno{
+        display: block;
+        margin-top: 150px;
+        font-size: 18px;
+        margin-left: 30px;
+    }
+
+    .puntodos{
+        display: block;
+        font-size: 18px;
+        margin-left: 30px;
+    }
+
+    .tre{
+        display: block;
+        font-size: 18px;
+        margin-left: 30px;
+    }
+
+    .dimaria .proc{
+        display: block;
+        font-size: 10px;
+        margin-left: 25px;
+    }
+
+    .flaco .proto{
+        display: block;
+        font-size: 7px;
+        margin-left: 20px;
+    }
+
+    .rol{
+        display: block;
+        font-size: 20px;
+        margin-left: 25px;
+    }
+
+    .roldos{
+        display: block;
+        font-size: 20px;
+        margin-left: 25px;
+    }
+
+    .roltres{
+        display: block;
+        font-size: 20px;
+        margin-left: 25px;
+    }
+
+
+}
