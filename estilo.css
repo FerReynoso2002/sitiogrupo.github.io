@@ -489,5 +489,8 @@ img {
         margin-left: 25px;
     }
 
-
+.imga img{
+    display: block;
+    width: 100%;
+}
 }
