@@ -359,6 +359,18 @@ img {
     width: 80px;
 }
 
+.video a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    font-size: 50px;
+    margin-left: 75px;
+}
+
+.video a:hover{
+    color: aqua;
+}
+
 /*RESPONSIVE*/
 
 
